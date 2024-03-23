@@ -1,2 +1,2 @@
 # Linus-Hoja-Veranstaltungstechnik
-https://www.linus-hoja.de/
+http://www.linus-hoja.de/
